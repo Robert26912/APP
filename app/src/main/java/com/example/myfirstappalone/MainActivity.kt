@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         //hello
         //hello from github
         //I am you.
+        //second conflict
     }
 
 }
